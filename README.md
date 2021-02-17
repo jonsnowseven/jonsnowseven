@@ -1,6 +1,6 @@
 ## João Neves' CV
 
-[LinkedIn]() | Twitter | Github | Website
+[LinkedIn](https://www.linkedin.com/in/jonsnow7/) | [Twitter](https://twitter.com/7_snow_storm) | [Github](https://github.com/jonsnowseven) | [Website](https://jonsnowseven.github.io/digital-cv/)
 
 ### 👨‍💻 Professional Experience
 
