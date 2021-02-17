@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+## João Neves' CV
 
-You can use the [editor on GitHub](https://github.com/jonsnowseven/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn]() | Twitter | Github | Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 👨‍💻 Professional Experience
 
-### Markdown
+**ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(January 2019-Present)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Design and implement detection and analytics cloud-based systems for CyberSecurity
 
-```markdown
-Syntax highlighted code block
+* Phishing analytics platform
+* Malware detection engine
+* Data Lake query costs optimization system
+* **Technologies used**: AWS Cloud Services, Git, PyTorch, Python, Scala, Serverless Framework, Spark, Terraform
 
-# Header 1
-## Header 2
-### Header 3
+**Data Scientist/Data Engineer** @ [Marionete](https://marionete.co.uk/), Lisbon *(October 2016–December 2018)*
 
-- Bulleted
-- List
+Design and implement Machine Learning use-cases
 
-1. Numbered
-2. List
+* Documents indexation with search capabilities for compliance (**Technologies used**: AWS Cloud Services, Elastic Search, Python)
+* Platform to match conference attendants (**Technologies used**: Heroku, Jenkins, Python, Pandas)
+* Malware detection engine (**Technologies used**: AWS Cloud Services, Keras, Python, Scala, Spark)
+* Partner trainer certified by Cloudera
 
-**Bold** and _Italic_ and `Code` text
+**Software Engineer** @ [SISCOG](https://www.siscog.pt/pt/), Lisbon *(September 2013–September 2016)*
 
-[Link](url) and ![Image](src)
-```
+Model the domain of processes of planning railroad resources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Intensive brainstorming of functionalities with the product managers
+* Part of a development team for a new product with recent clients
+* **Technologies used**: Lisp, ACL
 
-### Jekyll Themes
+### 🎙 Public Speaking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonsnowseven/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Big Things Conference](https://www.bigthingsconference.com/2019/schedule/from-euros-to-zero-using-probabilistic-data-structures-to-reduce-costs/) - **From euros to zero: using Probabilistic Data Structures to reduce costs**, Madrid *(November 2020)*
+* [MXNet Deep Learning Meetup](https://www.meetup.com/Deep-Learning-with-Apache-MXNet-Berlin/events/258325821/) - **AI vs Malware: Threat Intelligence @ Work**, Berlin *(February 2019)*
+* [Seminário Diagonal IST](https://math.tecnico.ulisboa.pt/seminars/diagonal/?action=show&id=2647) - **Variable Selection in Football Squads**, Lisbon *(November 2011)*
 
-### Support or Contact
+### 📚 Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* **Master (MSc) in Mathematics and Applications (Probabilistic and
+Statistics)** @ Técnico, Universidade Técnica de Lisboa, Lisbon *(2011-2013)*
+* **Degree (BSc) in Applied Mathematics and Computation** @ Técnico, Universidade Técnica de Lisboa, Lisbon *(2007-2011)*
+
+#### 📜 Master Thesis
+
+Title: **The effect of an imperfect ground-truth in the evaluation of the performance of classifiers**
+Supervisors: Prof. Maria do Rosário Oliveira
+Description: [Link](https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/2353642465848)
+
+### ⌨️ Programming Skills
+
+| Name       | Level     | Scope                            |
+| ---------- | --------- | -------------------------------- |
+| Python     | 🟢 Working | Daily basis usage                |
+| Scala      | 🟡 Average | Used in previous projects        |
+| SQL        | 🟡 Average | Used in previous projects        |
+| R          | 🟡 Average | Main language used in University |
+| Java       | 🔴 Amateur | Only reading skills              |
+| HTML       | 🔴 Amateur | Only reading skills              |
+| CSS        | 🔴 Amateur | Only reading skills              |
+| JavaScript | 🔴 Amateur | Only reading skills              |
+| C          | 🔴 Amateur | One academic project             |
+
+<!-- ### 🪓 Tools
+
+* **OS**: Unix, Windows
+* **Big Data**: Spark
+* **Cloud**: AWS
+* **VCS**: Git, Github, Bitbucket, Gitlab
+* **IDE**: Pycharm, Visual Studio Code, Intellij -->
+
+### 🌎 Languages
+
+| Lang       | Level              | Scope            |
+| ---------- | ------------------ | ---------------- |
+| Portuguese | Proficient         | Native           |
+| English    | Upper-intermediate | Working language |
+
+### 🎨 Interests
+
+* 🎮 Games: Playing games is an excellent way to relax
+* ⚽️ Football: Everything
+* 📺 Audiovisual Art: Films and TV Shows
