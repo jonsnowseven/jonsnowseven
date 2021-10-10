@@ -4,10 +4,14 @@
 
 ### 👨‍💻 Professional Experience
 
-**ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(January 2019-Present)*
+**Lead Tech Engineer & ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(April 2021-Present)*
+
+**ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(January 2019-April 2021)*
 
 Design and implement detection and analytics cloud-based systems for CyberSecurity
 
+* In-house MLOps framework development
+* Automation frameworks for clients
 * Phishing analytics platform
 * Malware detection engine
 * Data Lake query costs optimization system
