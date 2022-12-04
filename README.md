@@ -4,7 +4,14 @@
 
 ### 👨‍💻 Professional Experience
 
-**Lead Tech Engineer & ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(April 2021-Present)*
+**Senior ML Engineer** @ [Farfetch](https://www.farfetch.com/), Lisbon *(June 2022-Present)*
+
+ML to production
+
+* Design resilient, high-available and scalable systems to host ML models (e.g., APIs).
+* ETL support to ML model development.
+
+**Lead Tech Engineer & ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(April 2021-June 2022)*
 
 **ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(January 2019-April 2021)*
 
