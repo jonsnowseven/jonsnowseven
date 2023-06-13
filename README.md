@@ -6,10 +6,11 @@
 
 **Senior ML Engineer** @ [Farfetch](https://www.farfetch.com/), Lisbon *(June 2022-Present)*
 
-ML to production
+Recommendations Team
 
-* Design resilient, high-available and scalable systems to host ML models (e.g., APIs).
-* ETL support to ML model development.
+* Design and implement recommendation systems to improve the User Experience
+* Produce resilient, high-available and scalable systems to host ML models (e.g., APIs).
+* Support ML development implementing Data Engineering systems
 
 **Lead Tech Engineer & ML Engineer** @ [Siemens](https://www.siemens.com/global/en.html), Lisbon *(April 2021-June 2022)*
 
