@@ -32,7 +32,7 @@ twitter_username: 7_snow_storm
 github_username:  jonsnowseven
 
 # Build settings
-theme: hacker
+remote_theme: hacker
 plugins:
   - jekyll-feed
 
