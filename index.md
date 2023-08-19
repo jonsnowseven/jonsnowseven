@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# João Neves
+
+![profile-picture](img/profile-picture.jpeg)
