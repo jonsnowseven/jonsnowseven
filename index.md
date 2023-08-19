@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-<img src="img/profile-picture.jpeg" alt="profile-picture" width="200"/>

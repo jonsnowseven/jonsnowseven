@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-## About Me
-
-[LinkedIn](https://www.linkedin.com/in/jonsnow7/) | [Twitter](https://twitter.com/7_snow_storm) | [Github](https://github.com/jonsnowseven) | [Website](https://jonsnowseven.github.io/digital-cv/)
+<img src="img/profile-picture.jpeg" alt="profile-picture" width="200"/>
 
 ### 👨‍💻 Professional Experience
 
@@ -102,3 +100,7 @@ Description: [Link](https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/2353
 * 🎮 Games: Playing games is an excellent way to relax
 * ⚽️ Football: Everything
 * 📺 Audiovisual Art: Films and TV Shows
+
+### Links
+
+[LinkedIn](https://www.linkedin.com/in/jonsnow7/) | [Twitter](https://twitter.com/7_snow_storm) | [Github](https://github.com/jonsnowseven) | [Website](https://jonsnowseven.github.io/digital-cv/)
