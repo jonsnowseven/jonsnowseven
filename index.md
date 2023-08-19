@@ -7,4 +7,4 @@ layout: home
 
 # João Neves
 
-![profile-picture](img/profile-picture.jpeg)
+<img src="img/profile-picture.jpeg" alt="profile-picture" width="200"/>
