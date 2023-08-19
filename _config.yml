@@ -21,11 +21,11 @@
 title: Jon Snow's Webpage
 email: joaojdneves@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  João Neves, an accomplished professional, boasts a comprehensive background in the realms of machine learning, software engineering, and data science.
-  As a Senior Machine Learning Engineer at FARFETCH, João has been integral in crafting a virtual assistant powered by Large Language Models (LLMs) and optimizing recommendation systems using a Vector Search Engine.
-  His tenure as a Technical Lead Engineer at Siemens saw him designing and implementing cybersecurity systems, including proprietary MLOps frameworks and automated platforms.
-  João's expertise extends to cloud-based machine learning, evidenced by his role as a Cloud Machine Learning Engineer at Siemens, focusing on malware detection engine development.
-  With an educational foundation in Mathematical Statistics and Probability, as well as Computational and Applied Mathematics, João's journey underscores a wealth of skills across diverse technologies and methodologies.
+  João Neves: Accomplished professional in machine learning, software engineering, and data science, excelling in virtual assistant development, cybersecurity systems, and cloud-based machine learning.
+
+
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonsnowseven.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 7_snow_storm
