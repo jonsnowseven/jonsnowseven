@@ -23,9 +23,6 @@ email: joaojdneves@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   João Neves: Accomplished professional in machine learning, software engineering, and data science, excelling in virtual assistant development, cybersecurity systems, and cloud-based machine learning.
 
-
-
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonsnowseven.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 7_snow_storm
@@ -36,6 +33,14 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-toc
+
+# TOC Settings
+toc:
+  min_level: 1
+  max_level: 3
+  list_class: toc__list
+  sublist_class: toc__sublist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
