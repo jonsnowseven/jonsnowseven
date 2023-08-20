@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="img/profile-picture.jpeg" alt="profile-picture" width="200"/>
+![profile-picture](img/profile-picture.jpeg)
 
 ### 👨‍💻 Professional Experience
 
