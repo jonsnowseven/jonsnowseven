@@ -3,6 +3,7 @@ layout: post
 title:  "Managing multiple Poetry versions"
 date:  2023-08-19 14:04:51 +0100
 categories: python poetry
+tags: python poetry
 ---
 
 ## Motivation
