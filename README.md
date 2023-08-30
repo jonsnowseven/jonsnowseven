@@ -1,2 +1,3 @@
-# jonsnowseven.github.io
-My personal website
+# Jon Snow
+
+[My personal website](https://jonsnowseven.github.io)
